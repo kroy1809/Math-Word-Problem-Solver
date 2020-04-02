@@ -12,7 +12,7 @@
 - help!!!!!!!(please) i cant figure this out!? what is the sum of 4 2/5  and 17 3/7  ?  ==> help!!!!!!!(please) i cant figure this out!? what is the sum of   22/5  and 122/7 ? 
 - math homework help?  question: 15 is 25%  of what number? ==> math homework help?  question: 15 is 25/100  of what number?
 
-## list of folders:
+## List of folders:
 - Web scraping: it contains the code (OriginalDataExtractor.py) to scrap the math word problems from yahoo answers. A basic data cleaning has also been carried out (CleanVersionExtractor.py) to get the questions in the desired format.
 - Data_Cleaning: it contains the code for the data cleaning of Dolphin DataSet, MWP_DataCleaning.py file has all the rule based and filtering logic for transforming the candidate dolphin datasets to cleaned templates. Inside cleaned_data_examples folder, uncleaned_dolphin_data.csv  contains the raw data from dolphin dataset and filtered_cleaned_dolphin_data.json contains the filtered out cleaned template json from the csv.
 - T-RNN and baselines: contain T-RNN code and baseline models, output folder within contains runs of retrieval model (named as pred_*.txt) and runs of TRNN (named as run_*.txt)
